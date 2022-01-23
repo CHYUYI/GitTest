@@ -2,5 +2,5 @@ Hello Git33333333      testPoint1InHotFix
 ll234tttttTTSdjksal
 %%%%%%%%
 123334
-testPoint2InMaster
+testPoint2InMaster      只有在行内的修改发生冲突才会需要手动修改
 UUUUUU
